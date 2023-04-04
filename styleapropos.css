@@ -1,0 +1,22 @@
+.row{
+    padding: auto;
+    margin-top: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.col{
+    margin-top: 4;
+    padding: 5px;
+    font-size: 15px;
+    font-weight:bolder;
+    /* border: solid 5px black; */
+    display : inline-block;
+    padding: 2px 5px ;
+    /* border-radius: 4px; */
+    padding: 2px 5px ;
+}
+.ifarame{
+    border: solid 15px black;
+    background-color: black;
+
+}
